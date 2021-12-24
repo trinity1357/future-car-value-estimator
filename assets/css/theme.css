@@ -1915,7 +1915,7 @@ a.text-dark:hover, a.text-dark:focus {
   border-radius: 50%;
   background-color: #F6F5FC;
   color: #898798;
-  transition: all .2s linear;
+  transition: all .2s linear; 
 }
 
 .sosmed-button a:hover {
